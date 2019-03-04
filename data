@@ -1,1 +1,11 @@
-deneme
+number,symbol,name,turkishName
+1,H,Hydrogen,Hidrojen
+2,He,Helium,Helyum
+3,Li,Lithium,Lityum
+4,Be,Beryllium,Berilyum
+5,B,Boron,Bor
+6,C,Carbon,Karbon
+7,N,Nitrogen,Azot
+8,O,Oxygen,Oksijen
+9,F,Flor,Flor
+10,Ne,Neon,Neon
