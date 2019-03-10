@@ -18,4 +18,4 @@ number,symbol,name,turkishName;
 17,Cl,Chlorine,Klor;
 18,Ar,Argon,Argon;
 19,K,Potassium,Potasyum;
-20,Ca,Calcium,Kalsiyum;
+20,Ca,Calcium,Kalsiyum
