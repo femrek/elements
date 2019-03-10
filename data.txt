@@ -22,3 +22,4 @@ number,symbol,name,turkishName;
 21,Sc,Scandium,Skandiyum;
 22,Ti,Titanium,Titanyum;
 23,V,Vanadium,Vanadyum;
+24,Cr,Chromium,krom;
