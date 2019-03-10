@@ -19,3 +19,6 @@ number,symbol,name,turkishName;
 18,Ar,Argon,Argon;
 19,K,Potassium,Potasyum;
 20,Ca,Calcium,Kalsiyum;
+21,Sc,Scandium,Skandiyum;
+22,Ti,Titanium,Titanyum;
+23,V,Vanadium,Vanadyum;
