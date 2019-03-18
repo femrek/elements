@@ -29,7 +29,7 @@ number,symbol,name,turkishName,tur;
 28,Ni,Nickel,Nikel,gecismetal;
 29,Cu,Copper,Bakır,gecismetal;
 30,Zn,Zinc,Çinko,gecismetal;
-31,Ga,Gallium,Galyum,meral;
+31,Ga,Gallium,Galyum,metal;
 32,Ge,Germanium,Germanyum,yarimetal;
 33,As,Arsenic,Arsenik,yarimetal;
 34,Se,Selenium,Selenyum,ametal;
