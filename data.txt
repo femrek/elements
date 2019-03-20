@@ -35,3 +35,7 @@ number,symbol,name,turkishName,tur;
 34,Se,Selenium,Selenyum,ametal;
 35,Br,Bromine,Brom,halojen;
 36,Kr,Krypton,Kripton,soygaz;
+37,Rb,Rubidium,Rubidyum,metal;
+38,Sr,Strontium,Stronsiyum,metal;
+39,Y,Yttrium,İtriyum,gecismetal;
+40,Zr,Zirconium,Zirkonyum,gecismetal;
