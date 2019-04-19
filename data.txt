@@ -1,11 +1,11 @@
 number,symbol,name,turkishName,tur,kutle,e-dizilimi,konum,faz,opaklik;
-1,H,Hydrogen,Hidrojen,ametal,1.0079,,,,;
-2,He,Helium,Helyum,soygaz,4.0026,,,,;
-3,Li,Lithium,Lityum,metal,6.941,,,,;
-4,Be,Beryllium,Berilyum,metal,9.0122,,,,;
-5,B,Boron,Bor,yarimetal,10.811,,,,;
-6,C,Carbon,Karbon,ametal,12.0107,,,,;
-7,N,Nitrogen,Azot,ametal,14.0067,,,,;
+1,H,Hydrogen,Hidrojen,ametal,1.0079,1s1,,,;
+2,He,Helium,Helyum,soygaz,4.0026,1s2,,,;
+3,Li,Lithium,Lityum,metal,6.941,[He] 2s1,,,;
+4,Be,Beryllium,Berilyum,metal,9.0122,[He] 2s2,,,;
+5,B,Boron,Bor,yarimetal,10.811,[He] 2s2 2p1,,,;
+6,C,Carbon,Karbon,ametal,12.0107,[He] 2s2 2p2,,,;
+7,N,Nitrogen,Azot,ametal,14.0067,[He] 2s2 2p3,,,;
 8,O,Oxygen,Oksijen,ametal,15.9994,,,,;
 9,F,Flor,Flor,halojen,18.9984,,,,;
 10,Ne,Neon,Neon,soygaz,20.1797,,,,;
