@@ -35,7 +35,7 @@ number,symbol,name,turkishName,tur,kutle,e-dizilimi,konum,faz,opaklik;
 34,Se,Selenium,Selenyum,ametal,78.96,[Ar] 3d10 4s2 4p4,,Solid,;
 35,Br,Bromine,Brom,halojen,79.904,[Ar] 3d10 4s2 4p5,,Liquid,;
 36,Kr,Krypton,Kripton,soygaz,83.8,[Ar] 3d10 4s2 4p6,,Gas,;
-37,Rb,Rubidium,Rubidyum,metal,85.4678,[Kr] 5s1,Solid,,;
+37,Rb,Rubidium,Rubidyum,metal,85.4678,[Kr] 5s1,,Solid,;
 38,Sr,Strontium,Stronsiyum,metal,87.62,[Kr] 5s2,,Solid,;
 39,Y,Yttrium,İtriyum,gecismetal,88.9059,[Kr] 4d1 5s2,,Solid,;
 40,Zr,Zirconium,Zirkonyum,gecismetal,91.224,[Kr] 4d2 5s2,,Solid,;
