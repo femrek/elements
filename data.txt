@@ -1,4 +1,4 @@
-number,symbol,name,turkishName,tur,kutle,e-dizilimi,konum,faz,opakli;
+number,symbol,name,turkishName,tur,kutle,e-dizilimi,konum,faz;
 1,H,Hydrogen,Hidrojen,ametal,1.0079,1s1,,Gas;
 2,He,Helium,Helyum,soygaz,4.0026,1s2,,Gas;
 3,Li,Lithium,Lityum,metal,6.941,[He] 2s1,,Solid;
