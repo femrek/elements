@@ -22,7 +22,7 @@ number,symbol,name,turkishName,tur,kutle,e-dizilimi,konum,faz;
 21,Sc,Scandium,Skandiyum,gecismetal,44.9559,[Ar] 3d1 4s2,4/3B,Solid;
 22,Ti,Titanium,Titanyum,gecismetal,47.867,[Ar] 3d2 4s2,4/4B,Solid;
 23,V,Vanadium,Vanadyum,gecismetal,50.9415,[Ar] 3d3 4s2,4/5B,Solid;
-24,Cr,Chromium,krom,gecismetal,51.9961,[Ar] 3d5 4s1,4/6B,Solid;
+24,Cr,Chromium,Krom,gecismetal,51.9961,[Ar] 3d5 4s1,4/6B,Solid;
 25,Mn,Manganese,Mangan,gecismetal,54.938,[Ar] 3d5 4s2,4/7B,Solid;
 26,Fe,Iron,Demir,gecismetal,55.845,[Ar] 3d6 4s2,4/8B,Solid;
 27,Co,Cobalt,Kobalt,gecismetal,58.9332,[Ar] 3d7 4s2,4/8B,Solid;
